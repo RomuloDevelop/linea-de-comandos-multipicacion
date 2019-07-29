@@ -1,0 +1,19 @@
+{
+  "name": "linea-de-comandos",
+  "version": "1.0.0",
+  "description": "ejemplo de implementacion de yargs para el manejode lineas de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "nodejs",
+    "yargs"
+  ],
+  "author": "Romulo Corona",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^13.3.0"
+  }
+}
